@@ -139,20 +139,27 @@ ex ()
 }
 
 # aliases
-alias obsidian="~/Documents/Programs/scripts/obsidian.sh"
+# applications
 alias twine="~/Documents/Programs/twine_2.3.9_linux64/twine"
-alias visnode="~/Documents/Programs/VISNode-1.2.7-bin/VISNode-1.2.7/visnode-linux.sh"
 alias sunvox="~/Documents/Programs/sunvox-1.9.5d/sunvox/sunvox/linux_x86_64/sunvox"
 alias aioi="~/Documents/Programs/aioi/Aioi-linux-x64/Aioi"
 alias orca-c="~/Documents/Programs/hundredrabbits/Orca-c/build/orca"
 alias orca="~/Documents/Programs/hundredrabbits/orca/Orca"
 alias pilot="~/Documents/Programs/hundredrabbits/pilot/Pilot"
 alias left="~/Documents/Programs/hundredrabbits/left/Left"
-
+alias nasu="~/Documents/Programs/hundredrabbits/nasu"
+alias moogle="~/Documents/Programs/hundredrabbits/moogle"
+alias dotgrid="~/Documents/Programs/hundredrabbits/dotgrid"
+# scripts
+alias visnode="~/Documents/Programs/VISNode-1.2.7-bin/VISNode-1.2.7/visnode-linux.sh"
+alias p5="~/Documents/Programs/scripts/p5.sh"
+alias colorscheme="~/Documents/Programs/scripts/colorscheme.sh"
 alias update-processing="~/Documents/Programs/scripts/processing-update.sh"
 alias update-orca="~/Documents/Programs/scripts/orca-update.sh"
 alias update-aioi="~/Documents/Programs/scripts/aioi-update.sh"
-alias p5="~/Documents/Programs/scripts/p5.sh"
+alias backup="~/Documents/Programs/scripts/backup-dotfiles.sh"
+# commands
+alias ureload='xrdb -merge ~/.Xresources'
 
 export PATH=$PATH:~/.gem/ruby/2.7.0/bin
 
