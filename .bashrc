@@ -153,6 +153,7 @@ alias dotgrid="~/Documents/Programs/hundredrabbits/dotgrid"
 # scripts
 alias visnode="~/Documents/Programs/VISNode-1.2.7-bin/VISNode-1.2.7/visnode-linux.sh"
 alias p5="~/Documents/Programs/scripts/p5.sh"
+alias p5="~/Documents/Programs/scripts/three.sh"
 alias colorscheme="~/Documents/Programs/scripts/colorscheme.sh"
 alias update-processing="~/Documents/Programs/scripts/processing-update.sh"
 alias update-orca="~/Documents/Programs/scripts/orca-update.sh"
