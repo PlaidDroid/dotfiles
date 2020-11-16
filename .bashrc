@@ -153,8 +153,11 @@ alias dotgrid="~/Documents/Programs/hundredrabbits/dotgrid"
 # scripts
 alias visnode="~/Documents/Programs/VISNode-1.2.7-bin/VISNode-1.2.7/visnode-linux.sh"
 alias p5="~/Documents/Programs/scripts/p5.sh"
-alias p5="~/Documents/Programs/scripts/three.sh"
+alias three="~/Documents/Programs/scripts/three.sh"
 alias colorscheme="~/Documents/Programs/scripts/colorscheme.sh"
+alias dice="~/Documents/Programs/scripts/dice.sh"
+alias weather="~/Documents/Programs/scripts/weather.sh"
+alias update-weather="~/Documents/Programs/scripts/update-weather.sh"
 alias update-processing="~/Documents/Programs/scripts/processing-update.sh"
 alias update-orca="~/Documents/Programs/scripts/orca-update.sh"
 alias update-aioi="~/Documents/Programs/scripts/aioi-update.sh"
@@ -162,7 +165,7 @@ alias backup="~/Documents/Programs/scripts/backup-dotfiles.sh"
 # commands
 alias ureload='xrdb -merge ~/.Xresources'
 
-export PATH=$PATH:~/.gem/ruby/2.7.0/bin
+export PATH=$PATH:~/.gem/ruby/2.7.0/bin:~/Documents/Programs/scripts
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/plaiddroid/.sdkman"
