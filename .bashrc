@@ -162,6 +162,7 @@ alias update-processing="~/Documents/Programs/scripts/processing-update.sh"
 alias update-orca="~/Documents/Programs/scripts/orca-update.sh"
 alias update-aioi="~/Documents/Programs/scripts/aioi-update.sh"
 alias backup="~/Documents/Programs/scripts/backup-dotfiles.sh"
+alias switch_display="~/Documents/Programs/scripts/switch_display.sh"
 # commands
 alias ureload='xrdb -merge ~/.Xresources'
 
